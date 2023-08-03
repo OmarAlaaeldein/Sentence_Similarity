@@ -10,3 +10,8 @@ A hobby experiment to investigate possibility of using word embeddings to analyz
 - [ ] Evaluate the performance of the model.
 - [ ] Implement the model with FastText and compare the performance.
 - [ ] Explore possibilities of parallelizing operations for faster computation.
+
+## Important
+
+- The pertrained embedding model is trained on an aggregation of text corpuses locally
+- For the objective of comparing sentecne similiarty this approach is not currently performing optimally
