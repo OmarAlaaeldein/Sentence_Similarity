@@ -14,4 +14,4 @@ A hobby experiment to investigate possibility of using word embeddings to analyz
 ## Important
 
 - The pertrained embedding model is trained on an aggregation of text corpuses locally
-- For the objective of comparing sentecne similiarty this approach is not currently performing optimally
+- For the objective of comparing sentences similiarty this approach is not currently performing optimally
