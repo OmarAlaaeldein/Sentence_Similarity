@@ -5,7 +5,7 @@ A hobby experiment to investigate possibility of using word embeddings to analyz
 
 - [ ] Train the word2vec model on larger corpus.
 - [ ] Experiment with different sizes of word embeddings.
-- [ ] Modify the sentence_vector function to normalize vectors at each step.
+- [X] Modify the sentence_vector function to normalize vectors at each step.
 - [X] Test the sentence similarity function with various sentences.
 - [ ] Evaluate the performance of the model.
 - [ ] Implement the model with FastText and compare the performance.
@@ -14,4 +14,4 @@ A hobby experiment to investigate possibility of using word embeddings to analyz
 ## Important
 
 - The pertrained embedding model is trained on an aggregation of text corpuses locally
-- For the objective of comparing sentences similiarty this approach is not currently performing optimally
+- For the objective of comparing sentences similarity this approach is not currently performing optimally
